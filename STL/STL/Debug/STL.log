@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\STL\STL\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Universty.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Teacher.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Person.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Person.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Teacher.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Grooup.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Student.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Student.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Exam.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Grooup.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Universty.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Source.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Source.cpp(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Source.cpp(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Source.cpp(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Bank.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\STL\STL\Bank.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  STL.vcxproj -> C:\Users\Admin\source\repos\STL\Debug\STL.exe
